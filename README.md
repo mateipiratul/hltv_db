@@ -1,3 +1,7 @@
+# HLTV Database
+
+**Proiect pentru SGBD** -  Bază de Date Analitică, Istorică (Arhivă) a Scenei Internaționale de Counter-Strike Profesionist
+
 | fisier | descriere |
 |--------|-----------|
 | `hltv_create.sql` | scriptul de creare a tabelelor |
